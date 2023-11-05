@@ -1,9 +1,15 @@
-import './App.css';
+import Navbar from './components/Navbar';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Pages from './components/Pages';
+import { BrowserRouter } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello my PLC</h1>
+      <BrowserRouter>
+        <Navbar />
+        <Pages />
+      </BrowserRouter>
     </div>
   );
 }
