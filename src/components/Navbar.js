@@ -16,9 +16,9 @@ function Navbar() {
 		<header>
 			<div>
 			<img
-				src="images/navlogo.svg"
-				width="30"
-				height="30"
+				src="https://pic.onlinewebfonts.com/thumbnails/animations_368928.svg"
+				width="50px"
+				height="50px"
 				  className="d-inline-block align-top mx-2"
 				alt=""
 			/>

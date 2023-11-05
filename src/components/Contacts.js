@@ -5,10 +5,10 @@ import { GrFormClock, GrMailOption, GrMapLocation, GrPhone } from 'react-icons/g
 function Contacts() {
 
   function call() {
-    window.open('tel:+37069058465', '_self');
+    window.open('tel:+37060000000', '_self');
   }
 function email() {
-    window.location.href ='mailto:evdderma@gmail.com';
+    window.location.href ='mailto:info@company.com';
   }
 function navig() {
     window.open('https://www.google.com/maps/dir/55.7048182,21.1575783/Silicon+Valley,+Kalifornija,+Jungtin%C4%97s+Valstijos/@38.481725,-91.5876907,3z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x808fb68ad0cfc739:0x7eb356b66bd4b50e!2m2!1d-122.0575434!2d37.387474!11m1!6b1?entry=ttu');
