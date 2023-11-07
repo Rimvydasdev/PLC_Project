@@ -13,22 +13,23 @@ function Navbar() {
 	};
 
 	return (
-		<header>
-			<div>
+		<header className="navbar-container">
+			<div className="navbar-clearfix">
+			<div className="navbar-logo">
 			<img
 				src="https://pic.onlinewebfonts.com/thumbnails/animations_368928.svg"
-				width="50px"
-				height="50px"
+				width="64px"
+				height="64px"
 				  className="d-inline-block align-top mx-2"
 				alt=""
 			/>
 			<h3>PLC projects</h3>
 			</div>
-			<nav ref={navRef}>
-				<a href="/">Home</a>
-				<a href="/solutions">Solutions</a>
-				<a href="/about">About</a>
-				<a href="/contacts">Contacts</a>
+			<nav ref={navRef} className="navbar-items">
+				<a href="/">HOME</a>
+				<a href="/solutions">SOLUTIONS</a>
+				<a href="/about">ABOUT</a>
+				<a href="/contacts">CONTACTS</a>
 				<button
 					className="nav-btn nav-close-btn"
 					onClick={showNavbar}>
@@ -40,6 +41,7 @@ function Navbar() {
 				onClick={showNavbar}>
 				<FaBars />
 			</button>
+			</div>
 		</header>
 	);
 }
