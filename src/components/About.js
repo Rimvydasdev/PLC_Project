@@ -20,7 +20,7 @@ function About() {
                     <div className='about-local'>
                         <div>
 
-                            <img className='about-img' src='https://tristateec.com/wp-content/uploads/2021/11/2021-10-plc-programming-company-chattanooga.jpg' alt='programming' />
+                            <img className='about-img' src='https://5.imimg.com/data5/SELLER/Default/2021/11/ON/CZ/QT/12402434/plc-hmi-programming-services-500x500.jpg' alt='programming' />
                         </div>
                         <div className="about-item">
                             <p className='about-title'>EXPERIENCE</p>

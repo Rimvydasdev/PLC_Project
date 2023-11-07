@@ -19,13 +19,13 @@ function Solutions() {
     const solution = [
         {
             "id": "1",
-            "image": "https://blogs.sw.siemens.com/wp-content/uploads/sites/43/2021/11/Keyvis_FM600_03_2021_UHD-scaled.jpg",
+            "image": "https://www.maderelectricinc.com/hs-fs/hubfs/social-suggested-images/PLCwithSCADA.jpeg?width=320&name=PLCwithSCADA.jpeg",
             "title": "DESIGN",
             "desc": "Process control and automation design."
         },
         {
             "id": "2",
-            "image": "https://www.cignoli.it/wp-content/uploads/2020/12/cignoli-elettroforniture-installazione-industriale-automazione-illuminazione-43.jpg",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlyEZ6qTBEooXvRZBPciQ0bUxvDpO0fj2_Vg&usqp=CAU",
             "title": "PROGRAMMING",
             "desc": "PLC, SCADA and HMI programming"
         },
@@ -37,7 +37,7 @@ function Solutions() {
         },
         {
             "id": "4",
-            "image": "https://originbd.net/wp-content/uploads/2019/04/9-plc-programming.jpg",
+            "image": "https://punchlistzero.com/wp-content/uploads/2022/01/madeinchina.jpeg",
             "title": "MANUFACTURING OF CONTROL CABINETS",
             "desc": "Assembly of control cabinets."
         },
